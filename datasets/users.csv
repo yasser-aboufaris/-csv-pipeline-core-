@@ -1,0 +1,238 @@
+id,username,email,age,country
+1,john_doe,john@example.com,28,USA
+2,alice_smith,alice@domain.com,34,UK
+3,bob_johnson,bob@site.org,45,Canada
+4,claire_lee,claire@web.com,22,Australia
+5,omar_ali,omar@morocco.ma,31,Morocco
+6,ysullivan,wcastro@yahoo.com,42,New Caledonia
+7,davismary,udavis@hotmail.com,44,Botswana
+8,tamaramorrison,villanuevasandra@hotmail.com,20,India
+9,criley,melissarobinson@hotmail.com,34,United States of America
+10,myersmitchell,stephenschristine@yahoo.com,50,Cyprus
+11,gwilliams,kmaldonado@hotmail.com,49,Pakistan
+12,ellischristian,rgray@hotmail.com,43,Antigua and Barbuda
+13,martincaleb,moraleserika@yahoo.com,37,Croatia
+14,leecharlene,harrisjordan@yahoo.com,48,Wallis and Futuna
+15,djoseph,tinaroberts@yahoo.com,40,Bulgaria
+16,hayden81,samanthasims@yahoo.com,55,Northern Mariana Islands
+17,cruzcorey,davidsanders@gmail.com,31,Armenia
+18,amy21,amyvelazquez@gmail.com,50,Romania
+19,carrie26,berryerika@hotmail.com,26,Nepal
+20,epetersen,pbrown@gmail.com,36,France
+21,mwu,crystalgarcia@hotmail.com,26,Guatemala
+22,bishoptanner,kristine10@gmail.com,24,Equatorial Guinea
+23,jerryfrank,ujohnson@hotmail.com,57,Belgium
+24,gregory35,jasmine42@gmail.com,34,Guyana
+25,jack11,robertpierce@hotmail.com,52,Namibia
+26,dana80,lauragriffin@yahoo.com,63,Seychelles
+27,michaelwelch,fdavis@gmail.com,56,Serbia
+28,smithraymond,perrykeith@hotmail.com,27,Montenegro
+29,yfigueroa,trevor07@yahoo.com,37,Samoa
+30,amyers,james67@hotmail.com,24,Hungary
+31,sethfletcher,ojohnson@gmail.com,64,Haiti
+32,cheyenne84,diamond21@yahoo.com,22,Cyprus
+33,obrienchristopher,bradleyvilla@gmail.com,61,Kuwait
+34,hstevens,maryramirez@yahoo.com,39,Jordan
+35,jenniferwaters,htrevino@yahoo.com,48,Faroe Islands
+36,jeffrey31,kathyharrington@yahoo.com,53,Seychelles
+37,lgomez,uwarner@yahoo.com,24,Western Sahara
+38,matthewalexander,bradyperez@hotmail.com,40,Bangladesh
+39,shanethomas,christopheryoung@gmail.com,45,Yemen
+40,jennifersimmons,emily73@hotmail.com,38,Central African Republic
+41,collinsrachel,kingerin@hotmail.com,57,Vanuatu
+42,qgood,mpatton@yahoo.com,58,Afghanistan
+43,frytimothy,lramirez@hotmail.com,31,Bahrain
+44,rfischer,cward@hotmail.com,53,Norfolk Island
+45,erinmccoy,qshepard@yahoo.com,48,Singapore
+46,farmerjames,michael13@hotmail.com,46,Paraguay
+47,edwardsrebecca,patricialozano@hotmail.com,51,Saint Barthelemy
+48,wherring,ctran@hotmail.com,34,Christmas Island
+49,deborahbryant,ohunt@gmail.com,21,Ghana
+50,bradleybrewer,gbrown@gmail.com,53,Guernsey
+51,morriskrystal,susan06@yahoo.com,18,Western Sahara
+52,sherryvilla,paultownsend@gmail.com,23,Albania
+53,hollowaywilliam,william86@gmail.com,64,Ireland
+54,sabrinaallen,gmaynard@hotmail.com,43,Cambodia
+55,ghamilton,kenneth04@hotmail.com,63,Antigua and Barbuda
+56,danielkelly,jennifer51@yahoo.com,60,Tokelau
+57,amanda26,rhess@gmail.com,58,Albania
+58,adamsjessica,deleonwilliam@gmail.com,18,Sweden
+59,samuelsutton,rharvey@hotmail.com,57,Mexico
+60,kevinlynch,hhall@yahoo.com,49,Guyana
+61,brendagonzalez,simpsonstacey@hotmail.com,39,Bermuda
+62,jvalencia,crystal56@yahoo.com,41,Monaco
+63,tjensen,donnaburns@hotmail.com,39,Brazil
+64,droberts,anthonywhite@hotmail.com,61,Lithuania
+65,brian34,heatherfrank@yahoo.com,36,Belgium
+66,lewisray,stephanie21@gmail.com,43,Cameroon
+67,allisonedwards,ronald79@hotmail.com,41,South Korea
+68,stephen92,john86@hotmail.com,50,Nicaragua
+69,eric18,ashleyjohnson@hotmail.com,24,Tajikistan
+70,joseph27,barbara45@hotmail.com,37,Turkey
+71,chantellegriffith,sfuller@gmail.com,26,Barbados
+72,westjoseph,elizabethvaldez@hotmail.com,45,Armenia
+73,tylerpatterson,crystal72@yahoo.com,64,Tanzania
+74,curtisjoseph,ewells@yahoo.com,24,Iceland
+75,kortiz,rgordon@gmail.com,32,Chile
+76,kristenmendoza,brian52@hotmail.com,49,Paraguay
+77,lindsayramos,scott22@hotmail.com,27,South Africa
+78,kristin23,gregorymorgan@gmail.com,50,Macedonia
+79,dlara,serranobeverly@gmail.com,30,Bahamas
+80,sharon69,jessicalee@gmail.com,54,Uzbekistan
+81,crichardson,matthewjones@hotmail.com,42,Germany
+82,wallacedennis,chelsea72@hotmail.com,41,Panama
+83,kwilson,linda74@hotmail.com,28,Eritrea
+84,beverly62,stephanie35@hotmail.com,48,Canada
+85,jon63,dmartinez@yahoo.com,58,Nicaragua
+86,jodi84,joseph81@gmail.com,53,Italy
+87,ryancrystal,harrismatthew@hotmail.com,50,Georgia
+88,ralph32,goodmangregory@yahoo.com,25,Costa Rica
+89,miranda95,jmorgan@gmail.com,33,United Kingdom
+90,mschwartz,dawnreynolds@hotmail.com,38,Algeria
+91,bonnie80,angelamiller@yahoo.com,55,Denmark
+92,markroberts,stevenramos@gmail.com,41,Israel
+93,cooperphillip,brandon34@gmail.com,58,Japan
+94,ashley34,nashgavin@hotmail.com,38,Bolivia
+95,gregorybaker,simmonslori@hotmail.com,50,Namibia
+96,rose21,smithpeter@yahoo.com,24,Nauru
+97,nbarker,ngonzalez@yahoo.com,39,Mali
+98,mross,ashley64@gmail.com,34,Nepal
+99,bfreeman,susankelly@yahoo.com,62,Kazakhstan
+100,hollowayjohn,melissamartinez@gmail.com,55,Estonia
+id,username,email,age,country
+101,robert88,joel44@gmail.com,29,Cameroon
+102,william67,heatherclark@yahoo.com,30,Romania
+103,markchan,smithlinda@hotmail.com,29,Palau
+104,leonardkenneth,amy76@gmail.com,20,Albania
+105,pamela18,hsmith@gmail.com,57,Belize
+106,jacob09,dawn57@hotmail.com,60,Western Sahara
+107,jamesprice,naustin@gmail.com,34,Angola
+108,christinadecker,emily26@hotmail.com,48,Jersey
+109,terry54,lydiacrawford@gmail.com,22,Bolivia
+110,alejandromeyer,gmoore@hotmail.com,23,Lebanon
+111,martin71,terrymiller@gmail.com,61,Yemen
+112,harriscraig,clintonmoody@yahoo.com,26,Malta
+113,john12,joshuagreen@gmail.com,27,China
+114,shawtroy,kimberly24@gmail.com,20,Ethiopia
+115,jonhouse,brandycardenas@gmail.com,23,Mauritius
+116,tamara55,ericpatterson@yahoo.com,62,Saint Pierre and Miquelon
+117,turnervanessa,johnny46@hotmail.com,52,Angola
+118,pnelson,upeters@hotmail.com,61,Morocco
+119,kylejones,parkerdavid@gmail.com,43,Bahrain
+120,taylorsteven,nsullivan@gmail.com,63,Timor-Leste
+121,zthomas,imoore@hotmail.com,51,Kenya
+122,elaine11,myerstodd@gmail.com,35,Cambodia
+123,glawson,lewisabigail@yahoo.com,51,Saint Pierre and Miquelon
+124,trobles,dennis39@hotmail.com,33,Panama
+125,qvalenzuela,yolandabraun@gmail.com,31,Saint Helena
+126,phelpskathy,blackwelljoann@yahoo.com,61,Singapore
+127,karen47,rstevenson@gmail.com,55,Lesotho
+128,christianhuynh,clarkejennifer@hotmail.com,44,Cameroon
+129,kmartinez,gregorywatts@yahoo.com,55,Philippines
+130,websterrandy,connerchristine@gmail.com,35,Saint Pierre and Miquelon
+131,moodylori,stephanieaguirre@gmail.com,46,Italy
+132,rebeccaunderwood,collinssean@gmail.com,49,Saint Pierre and Miquelon
+133,jason95,ejenkins@hotmail.com,60,Egypt
+134,mejialisa,bailey91@gmail.com,59,Tanzania
+135,beverlysmith,shudson@gmail.com,62,Portugal
+136,salinasdavid,crystal83@hotmail.com,40,Guinea-Bissau
+137,monroejames,yhill@gmail.com,23,Mongolia
+138,oanderson,amyscott@yahoo.com,38,Aruba
+139,xhensley,howardjames@yahoo.com,57,Dominican Republic
+140,elizabeth56,dylanmartinez@hotmail.com,25,South Georgia and the South Sandwich Islands
+141,chrisowen,fordgregory@gmail.com,49,Djibouti
+142,tina09,teresawhite@hotmail.com,55,Grenada
+143,navarropatricia,waltersrichard@hotmail.com,58,Guam
+144,prattshannon,zharris@hotmail.com,39,Martinique
+145,edwardsryan,cynthia63@gmail.com,30,United States Minor Outlying Islands
+146,daviskatrina,davidlewis@gmail.com,33,Burundi
+147,cchavez,joann59@hotmail.com,19,Qatar
+148,marcus16,ryang@hotmail.com,64,Slovenia
+149,aparker,rowemichael@yahoo.com,35,Azerbaijan
+150,gwilliams,danieldavidson@yahoo.com,25,Somalia
+151,,bademail.com,29,USA                            # Missing username, invalid email
+152,doubledown,jojo@example.com,1500,France         # Unrealistic age
+153,ghost_user,,23,Mars                             # Missing email, fake country
+154,hacker99,email@domain,NaN,Narnia                # Bad email + bad age + fantasy country
+155,brokenid,someone@gmail.com,34,Canada            # Will duplicate ID 155 below (intentional)
+155,dupe,sameid@gmail.com,40,USA                    # Duplicate ID to test collision
+156,nogmail,johnexample.com,33,USA                  # Missing '@'
+157,nullvalue123,nullvalue@example.com,,            # Missing age and country
+158,youngkid,youngkid@gmail.com,-3,USA              # Negative age
+159,blankfields,,,                                  # Fully broken
+160,emptyemail,tester@,27,UK                        # Bad email format (missing domain)
+161,shawnparker,shawn@gmail.com,31,USA
+162,dianehicks,dianehicks@gmail,45,Nigeria                  # Bad email
+163,alfredo73,,40,Peru                                      # Missing email
+164,badageuser,user@site.com,abc,Brazil                     # Age is not a number
+165,supertom,tom@gmail.com,38,                              # Missing country
+166,,noone@ghost.com,28,Unknown                              # Missing username, invalid country
+167,jared123,jared!gmail.com,32,USA                         # Invalid email (missing @)
+168,realuser,real@example.com,25,Canada
+169,tommyboy,,,-12                                           # Missing multiple values, negative age
+170,justme,test@gmail.com,29,UK
+171,coolgal,coolgal@domain.net,30,France
+172,spacey ,space@gmail.com,30,Germany                      # Trailing space in username
+173,nadia,nadia@@gmail.com,35,Morocco                       # Double @
+174,placeholder,placeholder@email.com,25,Spain
+175,annemarie,anne@gmail,29,Brazil                          # Bad email
+176,haley123,haley123@gmail.com,33,Mexico
+177,emptyname,,40,USA                                       # Missing email
+178,luisperez,luis.perez@hotmail.com,,Argentina             # Missing age
+179,unknown99,unknown@weird-domain,41,Chile                 # Invalid email domain
+180,tyler,tyler@gmail.com,abc,USA                           # Age is string
+181,perfectuser,perfect@clean.com,26,Norway
+182,dupeuser,dupe@dupe.com,35,Canada
+183,dupeuser,dupe@dupe.com,35,Canada                        # Duplicate entire row
+184,dummyacc,dummy@acc.com,28,Cyprus
+185,badid1,tester@fail.com,25,Spain
+185,badid2,tester2@fail.com,29,Spain                        # Duplicate ID
+186,glitched,,N/A,N/A                                       # Everything is messed up
+187,kevin,kevin@mail.com,36,USA
+188,maryjane,maryjane@mail,40,                              # Missing country, bad email
+189,dumbline,,,,                                            # All empty
+190,x_username,x@x.x,22,Xland                               # Made-up country
+191,zoe,zoe@gmail.com,27,France
+192,noiduser,noid@gmail.com,29,Canada                      # Will pass unless ID check enforced
+193,hmmuser,hmm@maybe.com,9999,USA                          # Age extreme
+194,tom,,33,Mexico                                          # Missing email
+195,fakemail,tester@@site.com,31,Germany                   # Double @
+196,billgates,bill@microsoft.com,67,USA
+197,stevejobs,steve@apple.com,56,USA
+198,elonmusk,elon@tesla.com,52,Mars                         # Fantasy country
+199,d,1@1.com,1,Earth                                       # Tiny everything
+200,zzzuser,zzz@zzz.com,99,UK
+
+# More clean/broken/random rows to finish strong:
+
+201,carol,carol@gmail.com,45,USA
+202,nick,nick@domain.com,abc,Nigeria                        # Age not a number
+203,maria,maria@yahoo,32,Spain                              # Bad email
+204,mystery,,25,Canada                                       # Missing email
+205,ghostacc,,,                                              # Empty row
+206,emily,emily@emily.com,38,France
+207,andrew,invalid_email_format,36,USA                      # Bad email
+208,jackie,jackie@mail.com,0,Argentina                      # Borderline valid age
+209,zzz,zzz@zzz.com,105,UK                                  # Age too high?
+210,sandy,sandy@gmail.com,21,Nepal
+211,validuser1,valid1@mail.com,33,Mexico
+212,validuser2,valid2@mail.com,28,Egypt
+213,validuser3,valid3@mail.com,30,South Korea
+214,validuser4,valid4@mail.com,41,Brazil
+215,validuser5,valid5@mail.com,26,Germany
+216,buggy1,user@@mail.com,33,France                        # Double @
+217,buggy2,user!mail.com,34,France                         # No @
+218,buggy3,@mail.com,35,France                             # Missing username
+219,buggy4,user@.com,36,France                             # Bad domain
+220,buggy5,user@mail,37,France                             # No domain suffix
+
+# Let's wrap with weird but creative cases
+
+221,troll,null@null.null,27,Narnia                         # Fantasy country
+222,admin,admin@root.local,34,Nowhere                      # Fake domain + country
+223,nocountry,email@domain.com,30,                         # Missing country
+224,young,young@email.com,-2,USA                           # Negative age
+225,oldie,old@email.com,150,Canada                         # Too old
+226,splitter,email@domain.com,28,USA
+227,evilcode,";DROP TABLE users;",99,Hell                 # Injection test
+228,null,null,NaN,null                                     # All nulls

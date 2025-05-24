@@ -1,0 +1,102 @@
+id,user_id,title,content,date_posted
+1,15,How to stay focused?,Some tips on deep work.,2023-11-01
+2,8,The Power of Habit,Building routines that last.,2023-11-02
+3,22,Fitness Update,Lifted 150kg deadlift today!,2023-11-03
+4,150,How to wake up early?,No magic. Just sleep early.,2023-11-04
+5,45,Coding Tips,List comprehensions in Python rock.,2023-11-05
+6,999,Fake User Post,This shouldn't be valid.,2023-11-06     # Invalid user_id
+7,30,Best VS Code Extensions,,2023-11-07                  # Missing content
+8,27,Travel Log,Marrakech is stunning!,2023-11-08
+9,14,,This post has no title.,2023-11-09                  # Missing title
+10,33,Quotes I Love,Do or do not, there is no try.,2023-11-10
+11,28,Goal for 2024,Learn DSA deeply.,2023-11-11
+12,abc,Bad ID,This post has a string ID.,2023-11-12        # Invalid id
+13,26,Empty Fields,,,                                      # Missing all but id + user_id
+14,10,Clean Post,Well formatted and good.,2023-11-14
+15,15,Another Day,Cooked something delicious.,not-a-date    # Invalid date
+16,19,Book Review,1984 is terrifying.,2023-11-16
+17,18,Gratitude Post,Thankful for this week.,2023-11-17
+18,22,Reminder,Update your resume.,2023-11-18
+19,29,Workout Log,Today was leg day.,2023-11-19
+20,44,No Date Post,This one lacks a date,                 # Missing date
+21,10,Duplicated ID,First one.,2023-11-20
+21,11,Duplicated ID,Second one.,2023-11-21                # Duplicate ID
+22,13,Self-Taught Devs,Can they compete?,2023-11-22
+23,77,Top 10 Tools,React, Vite, Tailwind, etc.,2023-11-23
+24,19,Random Thoughts,Some rambling...,2023-11-24
+25,91,How to rest,Stop glorifying overwork.,2023-11-25
+26,55,Quick Tip,Drink more water.,2023-11-26
+27,63,,No title here.,2023-11-27                           # Missing title
+28,37,Why Python?,Because it's elegant.,2023-11-28
+29,40,Skipped Number,This ID is just fine.,2023-11-29
+30,41,,                                                  # Missing title + content + date
+31,42,Fast Post,Hello!,2023-11-30
+32,43,Unposted,Blank line follows,,2023-12-01
+33,21,From Morocco!,Proud to be from Marrakech!,2023-12-02
+34,65,AI Talk,The machines are learning.,2023-12-03
+35,16,Another Day,Still going strong.,2023-12-04
+36,17,Empty Title, ,2023-12-05                             # Title is whitespace
+37,39,Short Post,Yo!,2023-12-06
+38,48,Coffee Post,Espresso is life.,2023-12-07
+39,52,Unstructured,Not sure what I'm doing.,wrong-date     # Invalid date format
+40,53,All good,Looks fine here.,2023-12-08
+41,51,,Post without title.,2023-12-09                      # Missing title
+42,50,Good night,Going to sleep early.,2023-12-10
+43,5,Buggy title,@#$@#$@!,2023-12-11
+44,9,Career Advice,Do what matters.,2023-12-12
+45,4,Hardest Thing,Focus.,2023-12-13
+46,2,Back to basics,Refactor everything.,2023-12-14
+47,1,You got this!,Keep showing up.,2023-12-15
+48,11,Forgive Yourself,We're all learning.,2023-12-16
+49,7,Empty Post Title,,2023-12-17                          # Empty content
+50,6,Check this out!,Interesting link inside.,             # Missing date
+51,31,Hello there!,This is not a Star Wars reference.,2023-12-18
+52,20,Discipline Wins,Not motivation.,2023-12-19
+53,60,Let's Go!,Crushing goals.,2023-12-20
+54,24,Simple Hack,Put the phone in another room.,2023-12-21
+55,12,Advice Needed,How to study better?,2023-12-22
+56,3,Goodbye 2023,Wrapping up the year.,2023-12-23
+57,70,Festive Mood,🎄 Merry Christmas!,2023-12-24
+58,72,Reflecting,The highs and lows.,2023-12-25
+59,73,Starting Over,A new chapter.,2023-12-26
+60,75,,Hey!,2023-12-27                                     # Missing title
+61,76,Food Log,Pizza and salad.,2023-12-28
+62,66,Dog Post,My dog is the best.,2023-12-29
+63,67,Cat Post,Cats are cool too.,2023-12-30
+64,68,,I said what I said.,2023-12-31                      # Missing title
+65,69,Update,New job offer!,2024-01-01
+66,71,Flashback,This was 2019.,not-a-date-again            # Bad date
+67,74,No user ref post,Hello!,2024-01-02
+68,85,Made it,Another year!,2024-01-03
+69,86,Consistency,Small steps daily.,2024-01-04
+70,87,Flow State,Time flew by.,2024-01-05
+71,88,Why not?,Tried something new.,2024-01-06
+72,89,Confession,I skipped gym.,2024-01-07
+73,90,Everything hurts,Leg day.,2024-01-08
+74,92,,Blank again.,2024-01-09                              # Missing title
+75,93,Yolo!,Go for it.,2024-01-10
+76,94,Staying In,It's cold out.,2024-01-11
+77,95,Read More,Books > Netflix.,2024-01-12
+78,96,Friendship,Appreciate your people.,2024-01-13
+79,97,Win!,Closed my first client.,2024-01-14
+80,98,Reflection Time,Journal daily.,2024-01-15
+81,99,Doubt,Still figuring it out.,2024-01-16
+82,100,Bad Ref,User doesn’t exist.,2024-01-17              # Maybe invalid user_id
+83,101,Alt Account,Posted from secondary.,2024-01-18
+84,102,Smells Fishy,Fake post?,2024-01-19
+85,103,Invisible Post,,2024-01-20                           # Missing content
+86,104,Blank Again,,2024-01-21                              # Missing content
+87,105,Life Update,Big news coming.,2024-01-22
+88,106,,,                                                  # All blank but ID
+89,33,Meta Post,About posting.,2024-01-23
+90,18,Another one,Like DJ Khaled says.,2024-01-24
+91,19,,,,                                                 # Empty row
+92,10,Start now,Not Monday.,2024-01-25
+93,31,Good Enough,Perfection is a trap.,2024-01-26
+94,42,Closure,It’s done.,2024-01-27
+95,143,Take Action,Do something now.,2024-01-28
+96,114,,No title again.,2024-01-29                          # Missing title
+97,115,Talk to Someone,Don't isolate.,2024-01-30
+98,116,Hydrate,Water is your friend.,2024-01-31
+99,117,Mood,Feeling hopeful.,2024-02-01
+100,118,You Matter,Don’t forget it.,2024-02-02
