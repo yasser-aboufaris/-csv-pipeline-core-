@@ -1,0 +1,104 @@
+id,post_id,user_id,comment_text,date_commented
+1,1,5,Great post!,2023-11-02
+2,2,12,This helped me a lot, thanks!,2023-11-03
+3,3,19,Respect!,2023-11-04
+4,100,999,Not sure if this makes sense.,2023-11-05         # Invalid user and post
+5,4,8,,2023-11-06                                          # Empty comment
+6,5,10,Interesting idea.,2023-11-07
+7,6,15,Nice!,not-a-date                                     # Bad date
+8,7,20,Thanks for this.,2023-11-08
+9,8,22,I agree!,2023-11-09
+10,9,30,Yessss!,2023-11-10
+11,10,33,,                                                  # Missing comment text
+12,11,26,🤝,2023-11-11
+13,12,18,Fake comment here,2023-11-12
+14,13,3,This is nonsense.,                                 # Missing date
+15,14,14,Helpful!,2023-11-14
+16,15,88,Thanks a lot!,2023-11-15
+17,16,7,Great breakdown!,2023-11-16
+18,17,4,Very insightful.,2023-11-17
+19,18,9,Perfect timing!,2023-11-18
+20,19,13,Did not expect this.,2023-11-19
+21,20,99,Following this.,2023-11-20
+22,21,100,Reading again.,2023-11-21
+23,22,23,Totally!,2023-11-22
+24,23,24,LOL,2023-11-23
+25,24,25,You crushed it!,2023-11-24
+26,25,26,🔥,2023-11-25
+27,26,27,Bookmarked.,2023-11-26
+28,27,28,Please post more!,2023-11-27
+29,28,29,Noted.,2023-11-28
+30,29,30,Thanks again.,2023-11-29
+31,30,31,Clean post.,2023-11-30
+32,31,32,Learned something.,2023-12-01
+33,32,33,Gold!,2023-12-02
+34,33,34,I needed this.,2023-12-03
+35,34,35,Respect 🙌,2023-12-04
+36,35,36,Every word counts.,2023-12-05
+37,36,37,Deep stuff.,2023-12-06
+38,37,38,This is underrated.,2023-12-07
+39,38,39,Can’t stop reading.,2023-12-08
+40,39,40,So much value!,2023-12-09
+41,40,41,Loved this.,2023-12-10
+42,41,42,Reminds me of a book.,2023-12-11
+43,42,43,👏👏👏,2023-12-12
+44,43,44,Legendary!,2023-12-13
+45,44,45,I'll share this.,2023-12-14
+46,45,46,This made my day.,2023-12-15
+47,46,47,Where was this post last year?,2023-12-16
+48,47,48,So clear.,2023-12-17
+49,48,49,Subtle but strong.,2023-12-18
+50,49,50,Wow.,2023-12-19
+
+# The chaotic part begins here...
+
+51,50,51,Helpful.,2023-12-20
+52,51,52,Truth!,,
+53,52,53,,2023-12-22
+54,53,54,Nice.,2023-12-23
+55,54,54,Nice.,wrong-date
+56,abc,55,Wrong post ID.,2023-12-24                     # Non-integer post_id
+57,56,abc,Wrong user ID.,2023-12-25                     # Non-integer user_id
+58,57,56,Comment with number.,2023-12-26
+59,58,57,What a post.,2023-12-27
+60,59,58,Speechless.,2023-12-28
+61,60,59,This is gold.,2023-12-29
+62,61,60,Bookmarking.,2023-12-30
+63,62,61,Amazing!,2023-12-31
+64,63,62,Feeling it.,2024-01-01
+65,64,63,Loved it.,2024-01-02
+66,65,64,No way!,2024-01-03
+67,66,65,Incredible.,2024-01-04
+68,67,66,🔥🔥🔥,2024-01-05
+69,68,67,Short and powerful.,2024-01-06
+70,69,68,Truth bombs.,2024-01-07
+71,70,69,Big facts.,2024-01-08
+72,71,70,Inspirational!,2024-01-09
+73,72,71,That’s deep.,2024-01-10
+74,73,72,What a reminder.,2024-01-11
+75,74,73,Yes please!,2024-01-12
+76,75,74,Absolutely.,2024-01-13
+77,76,75,Perfect.,2024-01-14
+78,77,76,I needed this.,2024-01-15
+79,78,77,Spot on.,2024-01-16
+80,79,78,On point!,2024-01-17
+81,80,79,Exactly!,2024-01-18
+82,81,80,Let’s go!,2024-01-19
+83,82,81,Helpful insights.,2024-01-20
+84,83,82,You’re right.,2024-01-21
+85,84,83,Never thought of that.,2024-01-22
+86,85,84,Changed my perspective.,2024-01-23
+87,86,85,That hit.,2024-01-24
+88,87,86,Agreed.,2024-01-25
+89,88,87,Thank you!,2024-01-26
+90,89,88,Crazy timing!,2024-01-27
+91,90,89,I was just thinking this!,2024-01-28
+92,91,90,Needed this today.,2024-01-29
+93,92,91,Affirming.,2024-01-30
+94,93,92,Yes!,2024-01-31
+95,94,93,❤️,2024-02-01
+96,95,94,Lovely.,2024-02-02
+97,96,95,Truth hurts.,2024-02-03
+98,97,96,Lightbulb moment.,2024-02-04
+99,98,97,Deep.,2024-02-05
+100,99,98,On fire!,2024-02-06
